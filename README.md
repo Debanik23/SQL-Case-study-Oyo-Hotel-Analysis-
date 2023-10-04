@@ -1,5 +1,6 @@
 # SQL-Case-study-Oyo-Hotel-Analysis-
 City Hotel.csv and Oyo Hotel.csv are the 2 data sets used in the analysis.
+
 Steps:
 Step 1: Data manipulation
 In this step, data in the Excel sheet is cleaned using 'Power Query.' Data cleaning involves tasks such as removing duplicates, handling missing values, and transforming data to make it suitable for analysis.
